@@ -23,7 +23,8 @@ public class Test {
 		log.warn("FROM WARN METHOD");
 		log.error("FROM ERROR METHOD");
 		log.fatal("FROM FACTAL METHOD");
-		
+		log.fatal("FROM FACTAL METHOD");
+		log.fatal("FROM FACTAL METHOD");
 		System.out.println("completed");
 		
 	}
